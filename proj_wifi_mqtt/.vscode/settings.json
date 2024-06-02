@@ -1,0 +1,8 @@
+{
+    "idf.adapterTargetName": "esp32s2",
+    "files.associations": {
+        "mqtt_module.h": "c",
+        "leds_module.h": "c",
+        "stdbool.h": "c"
+    }
+}
